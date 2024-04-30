@@ -1,0 +1,41 @@
+Plotar LGR Planta
+�
+(
+�
+)
+=
+�
++
+5
+(
+�
++
+1
+)
+(
+�
++
+2
+)
+(
+�
++
+10
+)
+G(s)= 
+(s+1)(s+2)(s+10)
+s+5
+​
+ 
+Rlocus(G)
+Aqui, parece que a instrução é para plotar o Lugar Geométrico das Raízes (LGR) da função de transferência 
+�
+(
+�
+)
+G(s) de uma planta, onde 
+�
+(
+�
+)
+G(s) é uma função racional do tipo PID (Proporcional, Integral, Derivativa) dada pela equação acima.

@@ -1,0 +1,84 @@
+
+A imagem apresenta o título "Trabalho 03 - Reconhecimento de letras usando Perceptrons" e mostra dois exemplos de configurações de rede neural para reconhecimento de padrões em matrizes que representam letras.
+
+Na parte superior da imagem, há uma tabela grande com muitas células, cada uma contendo números, sendo algumas delas destacadas em amarelo, sugerindo a formação de letras usando o sistema binário (onde as células amarelas representam o número 1). Abaixo dessa tabela, há uma representação menor com células amarelas formando a letra "A", indicando como a letra poderia ser reconhecida pelos perceptrons.
+
+A seção esquerda da imagem está rotulada como "a) 1 neurônio:" e mostra uma configuração simples de neurônio com entradas de 
+�
+1
+x 
+1
+​
+  a 
+�
+�
+x 
+n
+​
+ , pesos de 
+�
+1
+w 
+1
+​
+  a 
+�
+�
+w 
+n
+​
+ , e um viés 
+�
+b. A saída 
+�
+y é 1 se 
+�
+X e -1 se 
+�
+T.
+
+A seção direita, rotulada como "b) 2 neurônios:", mostra uma configuração com dois neurônios. O primeiro neurônio tem entradas 
+�
+1
+x 
+1
+​
+  a 
+�
+�
+1
+x 
+w1
+​
+  com pesos e um viés 
+�
+1
+b1, produzindo uma saída 
+�
+1
+y1. O segundo neurônio também tem entradas 
+�
+1
+x 
+1
+​
+  a 
+�
+�
+2
+x 
+w2
+​
+  com pesos e um viés 
+�
+2
+b2, produzindo uma saída 
+�
+2
+y2. As saídas são marcadas para produzir 1 para 
+�
+X e -1 para 
+�
+T.
+
+Essa imagem ilustra como um sistema de perceptrons pode ser configurado para reconhecer letras baseadas em padrões de entrada, usando uma abordagem binária para representar e identificar caracteres.
